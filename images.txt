@@ -1,6 +1,5 @@
-nginx
-node:20
-sshpass:ci
+#nginx
+#node:20
 ictu/sshpass
 redis
 
